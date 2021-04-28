@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RTMPapp</string>
+    <string name="switch_cam">Switch</string>
+    <string name="publish">publish</string>
+    <string name="pause">Pause</string>
+    <string name="soft_encoder">soft encoder</string>
+    <string name="hard_encoder">hard encoder</string>
+    <string name="action_settings">action settings</string>
+    <string name="original">Original</string>
+    <string name="beauty">Beauty</string>
+    <string name="cool">Cool</string>
+    <string name="early_bird">Early Bird</string>
+    <string name="evergreen">Evergreen</string>
+    <string name="n1997">N1997</string>
+    <string name="nostalgia">Nostalgia</string>
+    <string name="romance">Romance</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="warm">Warm</string>
+    <string name="tender">Tender</string>
+    <string name="toast">Toast</string>
+    <string name="valencia">Valencia</string>
+    <string name="walden">Walden</string>
+    <string name="resume">resume</string>
+    <string name="stop">stop</string>
+</resources>
